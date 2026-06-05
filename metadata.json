@@ -1,0 +1,6 @@
+{
+  "name": "Tool Kit",
+  "description": "A production-ready professional tool kit containing logo, image, PDF, storyboard, still frame, and ad exposure utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
